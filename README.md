@@ -3,6 +3,9 @@
 
 **SPECTRE** is a specialized reconnaissance toolkit designed for digital footprinting and information gathering.
 
+DISCLAIMER : This tool is for educational purposes only. 
+Do not use with Harmful Intentions.
+
 ## 👁️ Modules
 
 | Module | File | Function |
@@ -20,7 +23,5 @@
 git clone [https://github.com/YOUR_USERNAME/Spectre.git](https://github.com/YOUR_USERNAME/Spectre.git)
 cd Spectre
 pip install requests phonenumbers
-python spectre.py```
+python spectre.py
 
-DISCLAIMER : This tool is for educational purposes only. 
-Do not use with Harmful Intentions.
