@@ -20,7 +20,7 @@ Do not use with Harmful Intentions.
 ## 📥 Installation
 
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Spectre.git](https://github.com/YOUR_USERNAME/Spectre.git)
+git clone [https://github.com/trixxexe/SPECTRE-Toolkit]
 cd Spectre
 pip install requests phonenumbers
 python spectre.py
